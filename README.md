@@ -76,7 +76,7 @@ feel free to ask if you have doubt on bitbyte's official discord server or open 
 
 ## Contribution
 
-currently it is a small repository so there are no significant rules for ontribution
+currently it is a small repository so there are no significant rules for contribution
 first timers can go checkout good first issue label in issues section
 
 after selecting an issue just comment on it so that one of our maintainer can assign that issue to you if available.
